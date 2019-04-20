@@ -9,11 +9,11 @@ In this fourth Hands on, Spring Boot Actuator 2.x Setup will be shown.
 * Spring Boot Security Basic setup.
 * SPring Boot MVC dependency for project running.
 * Spring Boot Jersey for project running.
-* Show /health and /info default endpoints.
+* Show **/health ** and **/info** default endpoints.
 * How to enable non default actuator`s endpoints.
-* How to exclude actautor`s endpoints.
+* How to exclude actuator`s endpoints.
 * Actuator endpoint web-base path customization.
-* /beans endpoint name customization
+* **/beans** endpoint name customization
 
 <h3>Project execution</h3>
 
