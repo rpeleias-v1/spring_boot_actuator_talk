@@ -1,14 +1,14 @@
-<h2>First Project Hands on - Spring Boot Actuator 1.X Setup</h2>
+<h2>Sixth project Hands on - Spring Boot Actuator 2.X custom endpoint creation</h2>
 
-In this first Hands on, Spring Boot Actuator Setup will be shown. Also, obligated Spring Boot MVC Dependency will be steup as pre requisite for success Actuator avalability.
+In this sixth Hands on, custom endpoint creation on Spring Boot Actuator 2.x will be shown.
 
 
 <h3> Hands on flow:</h3>
 
-* Spring Boot and Spring MVC Setup
-* Spring Boot Security Basic setup
-* Actuator port setup
-* Actuator custom name Setup
+* Custom endpoint cration on SPrinb Boot 2.x.
+* @ReadOperation GET operation.
+* @WriteOperation POST operation.
+* @DeleteOperation DELETE operation
 
 <h3>Project execution</h3>
 

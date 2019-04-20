@@ -1,6 +1,6 @@
-<h2>Fifth project Hands on - Spring Boot Actuator 2.X /info and /health indicator customization.</h2>
+<h2>Fifth project Hands on - Spring Boot Actuator 2.X **/info** and **/health** indicator customization.</h2>
 
-In this fifth Hands on, /info /health endpoints customization on Spring Boot Actuator 2.x will be shown. Also info properties, like project name and build version will be shown. Lastly, git information will be added on /info actuator`s endpoint.
+In this fifth Hands on, **/info** **/health** endpoints customization on Spring Boot Actuator 2.x will be shown. Also info properties, like project name and build version will be shown. Lastly, git information will be added on **/info** actuator`s endpoint.
 
 
 <h3> Hands on flow:</h3>
