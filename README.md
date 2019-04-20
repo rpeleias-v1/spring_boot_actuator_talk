@@ -15,7 +15,7 @@ Would you like to contribute for hands on evolution ? Fell free and help us :).
 * Spring Boot Actuator 2.X custom endpoint creation.
 * Spring Boot Admin server and client setup.
 
-<h3>Project pre requisites</h3>
+<h3>Project pre-requisites:</h3>
 
 * Java 8.
 * Maven.
