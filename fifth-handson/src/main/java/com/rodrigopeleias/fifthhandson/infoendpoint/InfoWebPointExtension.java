@@ -22,6 +22,8 @@ public class InfoWebPointExtension {
         Map<String, Object> info = this.delegate.info();
         Integer status = getStatus(info);
         Map<String, Object> customInfo = new HashMap<>(info);
+        Map<String, Object> app = (Map<String, Object>) customInfo.get("app");
+        app.put("customApp", "customInfo");
         customInfo.put("customInfo", "handOn");
         return new WebEndpointResponse<>(customInfo, status);
     }
