@@ -1,6 +1,6 @@
 <h2>Fourth Project Hands on - Spring Boot Actuator 2.X Setup</h2>
 
-In this fourth Hands on, Spring Boot Actuator 2.x Setup will be shown. Also, obligated Spring Boot MVC Dependency will be steup as pre requisite for success Actuator avalability.
+In this fourth Hands on, Spring Boot Actuator 2.x Setup will be shown.
 
 
 <h3> Hands on flow:</h3>
