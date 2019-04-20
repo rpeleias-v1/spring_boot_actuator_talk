@@ -5,7 +5,7 @@ In this third Hands on, Health Indication endpoint will be customized. Also, it 
 
 <h3> Hands on flow:</h3>
 
-* /health endpoint extension and customization.
+* **/health** endpoint extension and customization.
 * Custom actuator`s endpoint creation.
 
 <h3>Project execution</h3>
