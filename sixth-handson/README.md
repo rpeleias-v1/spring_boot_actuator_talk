@@ -5,12 +5,12 @@ In this sixth Hands on, custom endpoint creation on Spring Boot Actuator 2.x wil
 
 <h3> Hands on flow:</h3>
 
-* Custom endpoint cration on SPrinb Boot 2.x.
+* Custom endpoint creation on Spring Boot 2.x.
 * @ReadOperation GET operation.
 * @WriteOperation POST operation.
 * @DeleteOperation DELETE operation
 
-<h3>Project execution</h3>
+<h3>Project execution:</h3>
 
 ````java
 mvn spring-boot:run 

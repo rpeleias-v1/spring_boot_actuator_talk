@@ -1,6 +1,6 @@
 <h2>First Project Hands on - Spring Boot Actuator 1.X Setup</h2>
 
-In this first Hands on, Spring Boot Actuator Setup will be shown. Also, obligated Spring Boot MVC Dependency will be steup as pre requisite for success Actuator avalability.
+In this first Hands on, Spring Boot Actuator Setup will be shown. Also, required Spring Boot MVC Dependency will be setup for success Actuator execution.
 
 
 <h3> Hands on flow:</h3>

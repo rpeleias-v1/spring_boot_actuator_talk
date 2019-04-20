@@ -8,7 +8,7 @@ In this third Hands on, Health Indication endpoint will be customized. Also, it 
 * **/health** endpoint extension and customization.
 * Custom actuator`s endpoint creation.
 
-<h3>Project execution</h3>
+<h3>Project execution:</h3>
 
 ````java
 mvn spring-boot:run 

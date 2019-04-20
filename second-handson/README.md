@@ -10,7 +10,7 @@ In this Second Hands on, sensitive and insensitives endpoints will be shown. Als
 * Enable/disable Spring Boot Security on project, and overview of sensitive/insensitive endpoints.
 * **/beans**, **/env, /dump** sensitive overview.
 * Enable **/shutdown** endpoint (disabled by default).
-* Info endpoint properties customization.
+* **/info** endpoint properties customization.
 
 <h3>Project execution</h3>
 
