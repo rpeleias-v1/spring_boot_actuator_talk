@@ -1,14 +1,16 @@
-<h2>First Project Hands on - Spring Boot Actuator 1.X Setup</h2>
+<h2>Second Project Hands on - Spring Boot Actuator 1.X Setup</h2>
 
-In this first Hands on, Spring Boot Actuator Setup will be shown. Also, obligated Spring Boot MVC Dependency will be steup as pre requisite for success Actuator avalability.
+In this Second Hands on, sensitive and insensitives endpoints will be shown. Also, some of these endpoints properties will be customized.
 
 
 <h3> Hands on flow:</h3>
 
-* Spring Boot and Spring MVC Setup
-* Spring Boot Security Basic setup
-* Actuator port setup
-* Actuator custom name Setup
+* **/info** insensitive endpoint overview.
+* **/health** insensitive endpoint overview.
+* Enable/disable Spring Boot Security on project, and overview of sensitive/insensitive endpoints.
+* **/beans**, **/env, /dump** sensitive overview.
+* Enable **/shutdown** endpoint (disable by default).
+* Info endpoint properties customization.
 
 <h3>Project execution</h3>
 
