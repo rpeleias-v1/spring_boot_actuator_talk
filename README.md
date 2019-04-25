@@ -13,7 +13,6 @@ Would you like to contribute for hands on evolution ? Fell free and help us :).
 * Spring Boot Actuator 2.x setup.
 * Spring Boot Actuator 2.X **/info** and **/health** indicator customization.
 * Spring Boot Actuator 2.X custom endpoint creation.
-* Spring Boot Admin server and client setup.
 
 <h3>Project pre-requisites:</h3>
 
